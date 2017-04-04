@@ -1,7 +1,46 @@
 body {
-      font-family: 16px "Trebuchet MS", Helvetica, sans-serif;
-      background: url (background);
+      font-family: "Trebuchet MS", Helvetica, sans-serif;
+      font-size: 16px;
+      background: url (background.jpg);
       }
-pic {
+#pic {
       float:left;
       }
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+#contact-info {
+      font-size: 20px
+}
+#name {
+      font-size: 32px;
+}
+#header{
+      border-bottom: 1px solid;
+      padding: 12px;
+      margin: 16px;
+}
+#summary{
+      font-size:24px;
+}
+#resume-body{
+}
+#experience{
+}
+#strengths{
+}
+h3{
+      border-bottom:1px solid;
+      padding: 1px;
+      margin: 2px;
+}
+#tcs{
+}
+#rvc{
+}
+#target{
+}
+.date{
+      float:right;
+}
