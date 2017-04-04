@@ -1,7 +1,7 @@
 body {
       font-family: "Trebuchet MS", Helvetica, sans-serif;
       font-size: 16px;
-      background: url (background.jpg);
+      background: url("background.jpg");
       }
 #pic {
       float:left;
@@ -10,7 +10,7 @@ body {
 	margin: 20px;
       }
 #container {
-	width: 1200px;
+	width: 1000px;
 	margin: 40px auto 60px;
 }
 #contact-info {
@@ -26,6 +26,7 @@ body {
 }
 #summary{
       font-size:24px;
+	margin: 20px;
 }
 #resume-body{
 }
