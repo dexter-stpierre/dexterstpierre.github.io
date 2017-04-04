@@ -5,9 +5,11 @@ body {
       }
 #pic {
       float:left;
+	height:120px;
+	width:40px;
       }
 #container {
-	width: 800px;
+	width: 1200px;
 	margin: 40px auto 60px;
 }
 #contact-info {
