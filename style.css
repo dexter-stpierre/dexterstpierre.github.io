@@ -18,7 +18,7 @@ body {
 }
 #name {
       font-size: 52px;
-      margin-bottom:10;
+      margin-bottom:0;
 }
 #header{
       border-bottom: 1px solid;
