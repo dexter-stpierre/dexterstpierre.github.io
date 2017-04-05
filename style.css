@@ -14,10 +14,11 @@ body {
 	margin: 40px auto 60px;
 }
 #contact-info {
-      font-size: 20px
+      font-size: 20px;
 }
 #name {
-      font-size: 42px;
+      font-size: 52px;
+      margin-bottom:10;
 }
 #header{
       border-bottom: 1px solid;
@@ -40,13 +41,13 @@ h2{
       margin: 2px;
 }
 #tcs{
-	margin-bottom:10;
+	margin-bottom:15;
 }
 #rvc{
-	margin-bottom:10;
+	margin-bottom:15;
 }
 #target{
-	margin-bottom:10;
+	margin-bottom:15;
 }
 .date{
       float:right;
